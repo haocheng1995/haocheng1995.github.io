@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hao Cheng / Personal academic page"
+title                    : "Hao Cheng / Personal Academic Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "photo.jpg"
   name             : "Hao Cheng"
   pronouns         : "He/him"# example: "she/her"  
-  bio              : "PhD candidate in TU Delft"
-  location         : "Delft, The Netherlands"
+  bio              : "PhD candidate"
+  location         : "The Netherlands"
   employer         : "Delft University of Technology"
   uri              : # URL
   email            : "haojaysonshing@gmail.com" 
