@@ -30,18 +30,23 @@ My research interests span a variety of mutidiplanary topics in civil engineerin
 1.  Non-linear elastodynamics in compressible solids
 1.  Body wave scattering in heterogeneous media
 1.  Material charaterization using ballistic and diffuse waves
+1.  Application of wave interferometry in elastic wave-based structural health monitoring
 1.  Long-term monitoring of infrastructures
 1.  Application of machine learning in civil engineering
 
 Non-linear elastodynamics in compressible solids
 ------
-
+In structural design, mechanical properties are typically assumed to remain constant in response to external changes. For instance, when designing a concrete structure, parameters such as the elastic modulus and Poisson's ratio are often treated as fixed. However, factors like temperature fluctuations and varying external loads can affect these properties, and the. In such cases, the assumptions of linear elasticity are no longer valid, necessitating the adoption of non-linear contitutive equation. Understanding and analyzing this non-linear behavior is crucial for leveraging high-frequency elastic waves to detect changes in wave properties caused by temperature shifts or load variations. This approach enhances the precision and reliability of structural health monitoring and non-destructive testing techniques.
 
 Body wave scattering in heterogeneous media
 ------
 
 
 Material charaterization using ballistic and diffuse waves
+------
+
+
+Application of wave interferomery in elastic wave-based structural health monitoring
 ------
 
 
