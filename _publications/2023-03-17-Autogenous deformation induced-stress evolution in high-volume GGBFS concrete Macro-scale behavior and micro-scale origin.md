@@ -1,7 +1,7 @@
 ---
 title: "Autogenous deformation induced-stress evolution in high-volume GGBFS concrete: Macro-scale behavior and micro-scale origin"
 collection: publications
-category: Other papers
+category: manuscripts
 permalink: /publication/2023-03-17-Autogenous deformation induced-stress evolution in high-volume GGBFS concrete Macro-scale behavior and micro-scale origin
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-17
