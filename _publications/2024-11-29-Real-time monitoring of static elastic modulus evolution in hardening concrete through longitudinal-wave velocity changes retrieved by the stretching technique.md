@@ -1,7 +1,7 @@
 ---
 title: "Real-time monitoring of static elastic modulus evolution in hardening concrete through longitudinal-wave velocity changes retrieved by the stretching technique"
 collection: publications
-category: manuscripts
+category: RI3
 permalink: /publication/2024-11-29-Real-time monitoring of static elastic modulus evolution in hardening concrete through longitudinal-wave velocity changes retrieved by the stretching technique
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-29
