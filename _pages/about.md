@@ -27,9 +27,14 @@ Academic Qualifications
 ======
 **PhD in Structural Engineering**, 2025.02  
 [Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg), [Delft University of Technology](https://www.tudelft.nl/), The Netherlands
+Promoter: [Prof.dr.ir. Max. A. N. Hendriks](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures/staff/drir-man-max-hendriks), [Dr.ir. Yuguang Yang](https://www.tudelft.nl/en/staff/yuguang.yang/)
+Co-promoter: Dr. Katrin Löer
+Dissertation title: *Body wave transport properties in elastically deformed heterogeneous solids: application to concrete*
 
 **Master of Science in Architecture and Civil Engineering**, 2020.06  
 [School of Infrastructure Engineering](https://sche.dlut.edu.cn/English.htm), [Dalian University of Technology](https://en.dlut.edu.cn/), China
+Promoter: [Prof. Gangbing Song](https://www.me.uh.edu/faculty/song-gangbing), [Dr. Linsheng Huo](https://faculty.dlut.edu.cn/2005011121/en/index.htm)
+Thesis title: [*Structural defect detection utilizing percussion and machine learning*](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020653993.nh&uniplatform=OVERSEA&v=nwSi_dizuRQVfFIB8_b-cAeMmZ0WTNnn-yM0aFv0Ec_-WKOfB9YDOsIOPFhj81Qn)
 
 **Bachelor of Science in Civil Engineering**, 2017.06  
 [School of Civil Engineering](https://civil.qut.edu.cn/zwsy.htm), [Qingdao University of Technology](https://english.qut.edu.cn/), China
