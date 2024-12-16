@@ -6,7 +6,6 @@ permalink: /publication/2019-12-30-Monitor concrete moisture level using percuss
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-12-30
 venue: 'Construction and Building Materials'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S095006181932519X'
 citation: 'Zheng, L., Cheng, H., Huo, L., & Song, G. (2019). Monitor concrete moisture level using percussion and machine learning. Construction and Building Materials, 229, 117077.'
 ---
