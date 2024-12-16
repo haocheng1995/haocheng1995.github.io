@@ -16,10 +16,10 @@ Professional Experience
 Academic Qualifications
 ======
 **PhD in Structural Engineering**, 2025.02  
-[Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg), [Delft University of Technology](https://www.tudelft.nl/), [Delft University of Technology](https://www.tudelft.nl/), The Netherlands
+[Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg), [Delft University of Technology](https://www.tudelft.nl/), The Netherlands
 
 **Master of Science in Architecture and Civil Engineering**, 2020.06  
-[School of Infrastructure Engineering](https://sche.dlut.edu.cn/English.htm), [Delft University of Technology](https://www.tudelft.nl/), [Dalian University of Technology](https://en.dlut.edu.cn/), China
+[School of Infrastructure Engineering](https://sche.dlut.edu.cn/English.htm), [Dalian University of Technology](https://en.dlut.edu.cn/), China
 
 **Bachelor of Science in Civil Engineering**, 2017.06  
 [School of Civil Engineering](https://civil.qut.edu.cn/zwsy.htm), [Qingdao University of Technology](https://english.qut.edu.cn/), China
