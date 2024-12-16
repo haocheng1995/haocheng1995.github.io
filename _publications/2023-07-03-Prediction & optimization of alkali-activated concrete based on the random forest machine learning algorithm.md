@@ -1,7 +1,7 @@
 ---
 title: "Prediction & optimization of alkali-activated concrete based on the random forest machine learning algorithm"
 collection: publications
-category: RI6
+category: manuscripts
 permalink: /publication/2023-07-03-Prediction & optimization of alkali-activated concrete based on the random forest machine learning algorithm
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-03
