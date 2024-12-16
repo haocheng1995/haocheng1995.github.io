@@ -11,8 +11,7 @@ I am a PhD candidate in [Section of Concrete Structures](https://www.tudelft.nl/
 
 Academic Qualifications
 ======
-PhD in Structural Engineering, 2025.02
----
+PhD in Structural Engineering, 2025.02/
 Delft University of Technology, The Netherlands
 
 Master of Science in Architecture and Civil Engineering, 2020.06
