@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research Interests"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Non-linear elastodynamics in compressible solids
+------
+In structural design, mechanical properties are generally assumed to remain constant despite external changes. However, factors such as temperature variations and changing external loads can influence these properties. These influences are referred to as *thermoelasticity* and *non-linear elasticity*, respectively. These changes become particularly significant when dealing with high-frequency elastodynamics. In such scenarios, the assumptions of linear elasticity no longer hold, and it becomes necessary to apply non-linear constitutive equations. Understanding and analyzing this non-linear behavior is essential for utilizing high-frequency elastic waves to detect changes in wave properties caused by temperature fluctuations or load variations in structural health monitoring and non-destructive testing.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Body wave propagation in heterogeneous media
+------
+A material can exhibit both homogeneous and heterogeneous behavior simultaneously at different length scales, as seen in metals, rocks, and concrete. These heterogeneities can affect wave propagation, particularly for high-frequency waves, which are deflected by heterogeneities in a process known as *scattering*. Studying the behavior of scattered waves can provide insights into the meso-scale behavior of heterogeneous materials and help further explore the statistical properties of the heterogeneities within them.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Material characterization using ballistic and diffuse waves
+------
+Ballistic waves, which travel in a straight line through the material and probe it as an *effective medium*, provide information about the macro-scale properties of the material, such as cracks and strain changes. In contrast, diffuse waves scatter within the material due to heterogeneities and have a broader spatial reach, offering insights into the meso-scale internal variations within a certain spatial range of the material. Analyzing the transport properties of these two distinct types of elastic waves provides a multi-scale tool for material characterization.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Application of wave interferomery in elastic wave-based structural health monitoring
+------
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Long-term monitoring of infrastructures
+------
+
+
+Application of machine learning in civil engineering
+------
+
+
