@@ -29,7 +29,7 @@ Research Interests
 My research interests span a variety of mutidiplanary topics in civil engineering and solid mechanics, including:
 1.  Non-linear elastodynamics in compressible solids
 1.  Body wave scattering in heterogeneous media
-1.  Material charaterization using ballistic and diffuse waves
+1.  Material characterization using ballistic and diffuse waves
 1.  Application of wave interferometry in elastic wave-based structural health monitoring
 1.  Long-term monitoring of infrastructures
 1.  Application of machine learning in civil engineering
@@ -42,9 +42,9 @@ Body wave propagation in heterogeneous media
 ------
 A material can exhibit both homogeneous and heterogeneous behavior simultaneously at different length scales, as seen in metals, rocks, and concrete. These heterogeneities can affect wave propagation, particularly for high-frequency waves, which are deflected by heterogeneities in a process known as *scattering*. Studying the behavior of scattered waves can provide insights into the meso-scale behavior of heterogeneous materials and help further explore the statistical properties of the heterogeneities within them.
 
-Material charaterization using ballistic and diffuse waves
+Material characterization using ballistic and diffuse waves
 ------
-
+Ballistic waves, which travel in a straight line through the material and probe it as an *effective medium*, provide information about the macro-scale properties of the material, such as cracks and strain changes. In contrast, diffuse waves scatter within the material due to heterogeneities and have a broader spatial reach, offering insights into the meso-scale internal variations within a certain spatial range of the material. Analyzing the transport properties of these two distinct types of elastic waves provides a multi-scale tool for material characterization.
 
 Application of wave interferomery in elastic wave-based structural health monitoring
 ------
