@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and engineer specializing in non-destructive testing (NDT) and structural health monitoring (SHM), with a focus on advancing sustainable and resilient infrastructure. I am currently pursuing a PhD in [Section of Concrete Structures](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures), [Delft University of Technology](https://www.tudelft.nl/).
+I am a researcher and engineer specializing in non-destructive testing (NDT) and structural health monitoring (SHM), with a focus on advancing sustainable and resilient infrastructure. I am currently pursuing a PhD in [Section of Concrete Structures](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures), [Delft University of Technology](https://www.tudelft.nl/). You can find my CV here.
 
 Professional Experience
 ======
