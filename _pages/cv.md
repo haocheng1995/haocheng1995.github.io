@@ -32,12 +32,11 @@ Related articles:
 Research Interest 5: Long-term monitoring of infrastructures
 ------
 Long-term monitoring of infrastructures is a critical practice that ensures the safety, efficiency, and longevity of essential public assets such as bridges, roads, and tunnels. By continuously collecting and analyzing data on structural health, governments can detect potential failures before they become catastrophic. This proactive approach reduces maintenance costs, extends the lifespan of infrastructure, and safeguards public safety. For states and countries, it also supports economic stability, as reliable infrastructure is essential for transportation, trade, and emergency response. In the face of climate change and increasing urbanization, long-term monitoring has become a vital tool for sustainable development and disaster resilience. In the past few years, I participated in several long-term monitoring projects led by my supervisor, Assoc. Prof. Yuguang Yang. These projects include:
-1. Monitoring the Maastunnel in Rotterdam
+1. Monitoring the Maastunnel in Rotterdam (see [article](https://haocheng1995.github.io/publication/2022-06-27-Monitoring%20of%20repaired%20concrete%20floor%20in%20the%20Maastunnel%20using%20smart%20aggregates))
 2. Monitoring the N64 bridge near Dommelen, Valkenswaard
-3. Monitoring the geopolymer bridge in Friesland
-4. Monitoring the Fehmarn Belt fixed link
-5. Monitoring Balladelaan Bridge in Amersfoort
-Related articles:
+3. Monitoring the geopolymer bridge in Friesland (see [video 1](https://www.youtube.com/watch?v=NoC-y5aNv30&ab_channel=ProvincieFrysl%C3%A2n) and [video 2](https://www.youtube.com/watch?v=rz_JMohZ91o&ab_channel=ShizheZhang))
+4. Monitoring the Fehmarn Belt fixed link (together with [Witteveen+Bos](https://www.witteveenbos.com/news/monitoring-system-fehmarn-belt-fixed-link))
+5. Monitoring Concrete Bridge on Balladelaan in Amersfoort
 
 Research Interest 6: Application of machine learning in civil engineering
 ------
