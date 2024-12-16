@@ -2,9 +2,9 @@
 title: "Monitoring of repaired concrete floor in the Maastunnel using smart aggregates"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2022-06-27-Monitoring of repaired concrete floor in the Maastunnel using smart aggregates
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2022-06-27
 venue: 'Eleventh International Conference on Bridge Maintenance, Safety and Management'
 paperurl: 'https://www.taylorfrancis.com/chapters/edit/10.1201/9781003322641-57/monitoring-repaired-concrete-floor-maastunnel-using-smart-aggregates-hao-cheng-fengqiao-zhang-yuguang-yang-kees-blom'
 citation: 'Cheng, H., Zhang, F., Yang, Y., & Blom, C. K. (2022). Monitoring of repaired concrete floor in the Maastunnel using smart aggregates. In Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability (pp. 493-500). CRC Press.'
