@@ -1,7 +1,7 @@
 ---
 title: "Comparing the stretching technique and the wavelet cross-spectrum technique for measuring stress-induced wave-velocity changes in concrete"
 collection: publications
-category: RI4
+category: manuscripts
 permalink: /publication/2024-02-11-Comparing the stretching technique and the wavelet cross-spectrum technique for measuring stress-induced wave-velocity changes in concrete
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-11
