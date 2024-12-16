@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in [Section of Concrete Structures](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures), [Department of Engineering Structures](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures), [Delft University of Technology](https://www.tudelft.nl/). I am a researcher and engineer in the field of non-destructive testing (NDT) and structural health monitoring (SHM), focusing spans a variety of SHM topics, including non-linear elastodynamics in compressible solids, body wave scattering in heterogeneous media, material charaterization using ballistic and diffuse waves, long-term monitoring of infrastructures, and application of machine learning in SHM. My focus spans a variety of topics, ranging from sexual and reproductive health to the disclosure of mental health issues and climate change.
+I am a researcher and engineer specilizing in non-destructive testing (NDT) and structural health monitoring (SHM). Currently, I am doing my PhD in [Section of Concrete Structures](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures), [Department of Engineering Structures](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures), [Delft University of Technology](https://www.tudelft.nl/).
+
+Professional Experience
+======
+**To be updated**
 
 Academic Qualifications
 ======
@@ -20,14 +24,14 @@ Dalian University of Technology, China
 **Bachelor of Science in Civil Engineering**, 2017.06  
 Qingdao University of Technology, China
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research interests span a variety of topics, including:
+1. Non-linear elastodynamics in compressible solids
+1. Body wave scattering in heterogeneous media
+1. Material charaterization using ballistic and diffuse waves
+1. Long-term monitoring of infrastructures
+1. Application of machine learning in SHM
 
 Site-wide configuration
 ------
