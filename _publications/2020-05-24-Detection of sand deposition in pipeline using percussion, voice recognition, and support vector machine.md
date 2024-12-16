@@ -1,7 +1,7 @@
 ---
 title: "Detection of sand deposition in pipeline using percussion, voice recognition, and support vector machine"
 collection: publications
-category: RI6
+category: manuscripts
 permalink: /publication/2020-05-24-Detection of sand deposition in pipeline using percussion, voice recognition, and support vector machine
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-05-24
