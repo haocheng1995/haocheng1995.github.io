@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hao Cheng Personal Academic Pages"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
