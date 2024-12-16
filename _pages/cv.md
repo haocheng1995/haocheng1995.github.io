@@ -23,7 +23,7 @@ Ballistic waves, which travel in a straight line through the material and probe 
 
 Application of wave interferomery in elastic wave-based structural health monitoring
 ------
-
+Wave interferometry in seismology employs the cross-correlation of signal pairs to reconstruct the impulse response function, commonly known as *the Green's function*, of the subsurface. This technique is also applicable to structural health monitoring, enabling the detection of changes within the medium. Wave interferometry techniques, whether implemented in the time or frequency domain, rely on cross-correlation or cross-spectrum to estimate travel time changes. Unlike traditional arrival-time pickers, such as those based on the Akaike Information Criterion (AIC), wave interferometry is more sensitive to subtle time shifts in the waveform. This heightened sensitivity allows for the detection of minute travel time changes in elastic waves, which can be caused by fluctuations in temperature or changes in stress.
 
 Long-term monitoring of infrastructures
 ------
