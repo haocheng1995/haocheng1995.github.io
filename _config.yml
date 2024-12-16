@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hao Cheng / Personal Academic Page"
 title_separator          : "-"
-name                     : &name "Hao Cheng/成昊"
+name                     : &name "Hao Cheng"
 description              : &description "personal description"
 url                      : https://haocheng1995.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Hao Cheng"
+  name             : "Hao Cheng / 成昊"
   pronouns         : "He/him"# example: "she/her"  
   bio              : "PhD candidate"
   location         : "The Netherlands"
