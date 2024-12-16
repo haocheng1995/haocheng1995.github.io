@@ -16,22 +16,22 @@ Professional Experience
 Academic Qualifications
 ======
 **PhD in Structural Engineering**, 2025.02  
-Delft University of Technology, The Netherlands
+[Delft University of Technology](https://www.tudelft.nl/), The Netherlands
 
 **Master of Science in Architecture and Civil Engineering**, 2020.06  
-Dalian University of Technology, China
+[Dalian University of Technology](https://en.dlut.edu.cn/), China
 
 **Bachelor of Science in Civil Engineering**, 2017.06  
-Qingdao University of Technology, China
+[Qingdao University of Technology](https://english.qut.edu.cn/), China
 
 Research Interests
 ======
-My research interests span a variety of topics, including:
+My research interests span a variety of mutidiplanary topics in civil engineering and solid mechanics, including:
 1. Non-linear elastodynamics in compressible solids
 1. Body wave scattering in heterogeneous media
 1. Material charaterization using ballistic and diffuse waves
 1. Long-term monitoring of infrastructures
-1. Application of machine learning in SHM
+1. Application of machine learning in structural health monitoring
 
 Site-wide configuration
 ------
