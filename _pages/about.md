@@ -33,7 +33,7 @@ Dissertation title: *Body wave transport properties in elastically deformed hete
 
 **Master of Science in Architecture and Civil Engineering**, 2020.06  
 [School of Infrastructure Engineering](https://sche.dlut.edu.cn/English.htm), [Dalian University of Technology](https://en.dlut.edu.cn/), China  
-Promoter: [Prof. Gangbing Song](https://www.me.uh.edu/faculty/song-gangbing), [Dr. Linsheng Huo](https://faculty.dlut.edu.cn/2005011121/en/index.htm)  
+Advisor: [Prof. Gangbing Song](https://www.me.uh.edu/faculty/song-gangbing), [Dr. Linsheng Huo](https://faculty.dlut.edu.cn/2005011121/en/index.htm)  
 Thesis title: [*Structural defect detection utilizing percussion and machine learning*](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020653993.nh&uniplatform=OVERSEA&v=nwSi_dizuRQVfFIB8_b-cAeMmZ0WTNnn-yM0aFv0Ec_-WKOfB9YDOsIOPFhj81Qn)  
 
 **Bachelor of Science in Civil Engineering**, 2017.06  
