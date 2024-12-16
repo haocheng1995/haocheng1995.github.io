@@ -1,7 +1,7 @@
 ---
 title: "Monitoring of repaired concrete floor in the Maastunnel using smart aggregates"
 collection: publications
-category: RI5
+category: conferences
 permalink: /publication/2022-06-27-Monitoring of repaired concrete floor in the Maastunnel using smart aggregates
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-06-27
