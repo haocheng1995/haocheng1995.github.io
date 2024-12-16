@@ -3,7 +3,7 @@ title: "Bond-slip monitoring of concrete structures using smart sensors — A re
 collection: publications
 category: manuscripts
 permalink: /publication/2019-03-11-Bond-slip monitoring of concrete structures using smart sensors — A review
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This article belongs to Research Interest 5.'
 date: 2019-03-11
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/19/5/1231'
