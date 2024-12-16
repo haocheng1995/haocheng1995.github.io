@@ -11,13 +11,13 @@ I am a PhD candidate in [Section of Concrete Structures](https://www.tudelft.nl/
 
 Academic Qualifications
 ======
-PhD in Structural Engineering, 2025.02/
+**PhD in Structural Engineering**, 2025.02  
 Delft University of Technology, The Netherlands
 
-Master of Science in Architecture and Civil Engineering, 2020.06
+**Master of Science in Architecture and Civil Engineering**, 2020.06  
 Dalian University of Technology, China
 
-Bachelor of Science in Civil Engineering, 2017.06
+**Bachelor of Science in Civil Engineering**, 2017.06  
 Qingdao University of Technology, China
 
 Getting started
