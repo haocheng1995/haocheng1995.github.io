@@ -27,11 +27,11 @@ Academic Qualifications
 Research Interests
 ======
 My research interests span a variety of mutidiplanary topics in civil engineering and solid mechanics, including:
-1. Non-linear elastodynamics in compressible solids
-1. Body wave scattering in heterogeneous media
-1. Material charaterization using ballistic and diffuse waves
-1. Long-term monitoring of infrastructures
-1. Application of machine learning in structural health monitoring
+1.  Non-linear elastodynamics in compressible solids
+1.  Body wave scattering in heterogeneous media
+1.  Material charaterization using ballistic and diffuse waves
+1.  Long-term monitoring of infrastructures
+1.  Application of machine learning in structural health monitoring
 
 Site-wide configuration
 ------
