@@ -27,9 +27,13 @@ Wave interferometry in seismology employs the cross-correlation of signal pairs 
 
 Long-term monitoring of infrastructures
 ------
-
+Long-term monitoring of infrastructures is a critical practice that ensures the safety, efficiency, and longevity of essential public assets such as bridges, roads, and tunnels. By continuously collecting and analyzing data on structural health, governments can detect potential failures before they become catastrophic. This proactive approach reduces maintenance costs, extends the lifespan of infrastructure, and safeguards public safety. For states and countries, it also supports economic stability, as reliable infrastructure is essential for transportation, trade, and emergency response. In the face of climate change and increasing urbanization, long-term monitoring has become a vital tool for sustainable development and disaster resilience. In the past few years, I participated in several long-term monitoring projects led by my supervisor, Assoc. Prof. Yuguang Yang. These projects include:
+1. Monitoring the Maastunnel in Rotterdam
+2. Monitoring the N64 bridge near Dommelen, Valkenswaard
+3. Monitoring the Fehmarn Belt fixed link
+4. Monitoring Balladelaan Bridge in Amersfoort
 
 Application of machine learning in civil engineering
 ------
-
+The application of machine learning in civil engineering is transforming the way infrastructure is designed, constructed, and maintained. By leveraging advanced algorithms and data-driven models, engineers can predict structural performance, optimize construction processes, and enhance decision-making. From material testing to infrastructure monitoring, machine learning improves accuracy, efficiency, and sustainability, making it an essential tool for the future of civil engineering.
 
