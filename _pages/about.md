@@ -36,11 +36,11 @@ My research interests span a variety of mutidiplanary topics in civil engineerin
 
 Non-linear elastodynamics in compressible solids
 ------
-In structural design, mechanical properties are generally assumed to remain constant despite external changes. For example, when designing concrete structures, parameters like the elastic modulus and Poisson's ratio are often considered fixed. However, factors such as temperature variations and changing external loads can influence these properties. These changes become significant when dealing with high-frequency elastodynamics. In such scenarios, the assumptions of linear elasticity no longer hold, and it becomes necessary to apply non-linear constitutive equations. Understanding and analyzing this non-linear behavior is essential for utilizing high-frequency elastic waves to detect changes in wave properties caused by temperature fluctuations or load variations in structural health monitoring and non-destructive testing.
+In structural design, mechanical properties are generally assumed to remain constant despite external changes. However, factors such as temperature variations and changing external loads can influence these properties. These influences are referred to as *thermoelasticity* and *non-linear elasticity*, respectively. These changes become particularly significant when dealing with high-frequency elastodynamics. In such scenarios, the assumptions of linear elasticity no longer hold, and it becomes necessary to apply non-linear constitutive equations. Understanding and analyzing this non-linear behavior is essential for utilizing high-frequency elastic waves to detect changes in wave properties caused by temperature fluctuations or load variations in structural health monitoring and non-destructive testing.
 
-Body wave scattering in heterogeneous media
+Body wave propagation in heterogeneous media
 ------
-
+A material can exhibit both homogeneous and heterogeneous behavior simultaneously at different length scales, as seen in metals, rocks, and concrete. These heterogeneities can affect wave propagation, particularly for high-frequency waves, which are deflected by heterogeneities in a process known as *scattering*. Studying the behavior of scattered waves can provide insights into the meso-scale behavior of heterogeneous materials and help further explore the statistical properties of the heterogeneities within them.
 
 Material charaterization using ballistic and diffuse waves
 ------
