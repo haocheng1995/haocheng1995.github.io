@@ -17,7 +17,7 @@ Professional Experience
 
 Research Interests
 ======
-My research interests span a variety of mutidiplanary topics in civil engineering and solid mechanics, including:
+My research interests span a variety of multidisciplinary topics in civil engineering and solid mechanics, including:
 1.  Non-linear elastodynamics in compressible solids
 1.  Body wave scattering in heterogeneous media
 1.  Material characterization using ballistic and diffuse waves
