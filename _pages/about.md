@@ -30,7 +30,7 @@ Academic Qualifications
 ======
 **PhD in Structural Engineering**, 2025.02  
 [Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg), [Delft University of Technology](https://www.tudelft.nl/), The Netherlands  
-Promoters: [Prof.dr.ir. Max. A. N. Hendriks](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures/staff/drir-man-max-hendriks), [Dr.ir. Yuguang Yang](https://www.tudelft.nl/en/staff/yuguang.yang/)  
+Promoters: [Prof.dr.ir. Max A. N. Hendriks](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/concrete-structures/staff/drir-man-max-hendriks), [Dr.ir. Yuguang Yang](https://www.tudelft.nl/en/staff/yuguang.yang/)  
 Co-promoter: Dr. Katrin Löer  
 Dissertation title: *Body wave transport properties in elastically deformed heterogeneous solids: application to concrete*  
 
