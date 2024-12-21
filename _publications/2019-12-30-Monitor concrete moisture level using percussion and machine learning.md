@@ -3,7 +3,7 @@ title: "Monitor concrete moisture level using percussion and machine learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-12-30-Monitor concrete moisture level using percussion and machine learning
-excerpt: 'Research Interest 6'
+excerpt: 'This paper falls under the domain of Research Interest 6.'
 date: 2019-12-30
 venue: 'Construction and Building Materials'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S095006181932519X'
