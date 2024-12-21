@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Home (This page is not yet complete and is still being updated)"
 author_profile: true
 redirect_from: 
   - /about/
