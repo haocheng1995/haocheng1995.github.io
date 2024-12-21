@@ -3,7 +3,7 @@ title: "Comparing the stretching technique and the wavelet cross-spectrum techni
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-11-Comparing the stretching technique and the wavelet cross-spectrum technique for measuring stress-induced wave-velocity changes in concrete
-excerpt: 'Research Interest 4'
+excerpt: 'This paper falls under the domain of Research Interest 4.'
 date: 2024-02-11
 venue: 'Automation in Construction'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580523004818'
