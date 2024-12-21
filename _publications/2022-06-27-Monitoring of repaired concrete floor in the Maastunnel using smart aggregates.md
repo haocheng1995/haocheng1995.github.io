@@ -3,7 +3,7 @@ title: "Monitoring of repaired concrete floor in the Maastunnel using smart aggr
 collection: publications
 category: conferences
 permalink: /publication/2022-06-27-Monitoring of repaired concrete floor in the Maastunnel using smart aggregates
-excerpt: 'Research Interest 5'
+excerpt: 'This paper falls under the domain of Research Interest 5.'
 date: 2022-06-27
 venue: 'Eleventh International Conference on Bridge Maintenance, Safety and Management'
 paperurl: 'https://www.taylorfrancis.com/chapters/edit/10.1201/9781003322641-57/monitoring-repaired-concrete-floor-maastunnel-using-smart-aggregates-hao-cheng-fengqiao-zhang-yuguang-yang-kees-blom'
