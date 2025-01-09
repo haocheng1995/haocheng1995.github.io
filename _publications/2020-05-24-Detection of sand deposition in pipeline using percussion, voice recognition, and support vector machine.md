@@ -3,7 +3,7 @@ title: "Detection of sand deposition in pipeline using percussion, voice recogni
 collection: publications
 category: manuscripts
 permalink: /publication/2020-05-24-Detection of sand deposition in pipeline using percussion, voice recognition, and support vector machine
-excerpt: 'This paper falls under the domain of Research Interest 6.'
+excerpt: 'This paper is related to my master thesis and falls under the domain of Research Interest 6.'
 date: 2020-05-24
 venue: 'Structural Health Monitoring'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/1475921720918890'
