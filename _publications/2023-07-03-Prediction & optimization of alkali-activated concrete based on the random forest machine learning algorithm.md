@@ -3,7 +3,7 @@ title: "Prediction & optimization of alkali-activated concrete based on the rand
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-03-Prediction & optimization of alkali-activated concrete based on the random forest machine learning algorithm
-excerpt: 'This paper is related to my master thesis and falls under the domain of Research Interest 6.'
+excerpt: 'This paper was a collaborative effort with Yubo Sun from Hong Kong Polytechnic University and falls under the domain of Research Interest 6.'
 date: 2023-07-03
 venue: 'Construction and Building Materials'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0950061823012321'
