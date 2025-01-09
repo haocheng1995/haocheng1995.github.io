@@ -3,7 +3,7 @@ title: "Bond-slip monitoring of concrete structures using smart sensors — A re
 collection: publications
 category: manuscripts
 permalink: /publication/2019-03-11-Bond-slip monitoring of concrete structures using smart sensors — A review
-excerpt: 'Review Paper'
+excerpt: 'This review paper was a collaborative effort with Linsheng Huo from Dalian University of Technology, Qingzhao Kong from Tongji University, and Xuemin Chen from Texas Southern University. It has been selected as the *feature paper*, and I serves as the co-first author.'
 date: 2019-03-11
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/19/5/1231'
