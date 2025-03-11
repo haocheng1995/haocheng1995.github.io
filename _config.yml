@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Hao Cheng / 成昊"
-  pronouns         : "He/him"# example: "she/her"  
-  bio              : "PhD candidate"
+  pronouns         : #"He/him" # example: "she/her"  
+  bio              : "PhD"
   location         : "The Netherlands"
   employer         : "Delft University of Technology"
   uri              : # URL
