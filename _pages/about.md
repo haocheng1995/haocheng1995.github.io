@@ -13,18 +13,6 @@ Professional Experience
 ======
 **To be updated**
 
-
-Research Interests
-======
-My research interests span a variety of multidisciplinary topics in civil engineering and solid mechanics, including:
-1.  Non-linear elastodynamics in compressible solids
-1.  Body wave scattering in heterogeneous media
-1.  Material characterization using ballistic and diffuse waves
-1.  Application of wave interferometry in elastic wave-based structural health monitoring
-1.  Long-term monitoring of infrastructures
-1.  Application of machine learning in civil engineering
-
-
 Academic Qualifications
 ======
 **PhD in Structural Engineering**, 2025.02  
@@ -40,3 +28,13 @@ Thesis title: [*Structural defect detection utilizing percussion and machine lea
 
 **Bachelor of Science in Civil Engineering**, 2017.06  
 [School of Civil Engineering](https://civil.qut.edu.cn/zwsy.htm), [Qingdao University of Technology](https://english.qut.edu.cn/), China
+
+Research Interests
+======
+My research interests span a variety of multidisciplinary topics in civil engineering and solid mechanics, including:
+1.  Non-linear elastodynamics in compressible solids
+1.  Body wave scattering in heterogeneous media
+1.  Material characterization using ballistic and diffuse waves
+1.  Application of wave interferometry in elastic wave-based structural health monitoring
+1.  Long-term monitoring of infrastructures
+1.  Application of machine learning in civil engineering
