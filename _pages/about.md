@@ -12,7 +12,7 @@ I am a Research Fellow in Nanyang Technological University, Singapore, specializ
 Professional Experience
 ======
   **Research Fellow**, 2025.06  
-[School of Civil and Environmental Engineering (CEE)](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore  
+[School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore  
 Advisor: [Dr. Gun Kim](https://dr.ntu.edu.sg/entities/person/Kim-Gun)
 
 Academic Qualifications
